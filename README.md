@@ -2,6 +2,8 @@
 
 A fully local, privacy-first **RAG (Retrieval-Augmented Generation)** chatbot that answers questions from your PDF documents. Built with LangChain, Ollama, Weaviate, and Gradio — runs entirely on your machine with **zero API keys or cloud dependencies**.
 
+Use at http://localhost:7860
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
 ![LangChain](https://img.shields.io/badge/LangChain-LCEL-green)
